@@ -1,4 +1,4 @@
-🏆 Proyecto: Liga Deportiva en la Blockchain de Sui
+# 🏆 Proyecto: Liga Deportiva en la Blockchain de Sui
 
 El proyecto Liga Deportiva es un módulo desarrollado en el lenguaje Move para la blockchain de Sui, que permite la gestión descentralizada de una liga de fútbol u otro deporte.
 
@@ -6,7 +6,7 @@ El sistema permite crear ligas, agregar equipos y administrar jugadores dentro d
 
 Cada entidad —liga, equipo y jugador— se representa como un objeto único en Sui, utilizando identificadores (UID) y estructuras de datos tipo VecMap para almacenar las relaciones jerárquicas.
 
-Entre sus principales funcionalidades se incluyen:
+# Entre sus principales funcionalidades se incluyen:
 
 Creación y eliminación de ligas.
 
